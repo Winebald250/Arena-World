@@ -6,7 +6,7 @@ Players go in turns to try to guess the correct items (eggs) in the opponents ra
 
 With a very cool user interface and a well thought out game play, Myth Arena promises to be an exciting game which you can play with friends and family.
 
-You can find the circuits, contracts and backend [here](https://github.com/Destiny-01/mythicals/tree/backend)
+You can find the circuits, contracts and backend [here](https://github.com/Winebald250/mythicals)
 
 Stack
 
